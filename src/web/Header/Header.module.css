@@ -1,0 +1,9 @@
+.head {
+    grid-area: head;
+    background-color: saddlebrown;
+ }
+ .head img{
+ width: 50px;
+ }
+
+ 

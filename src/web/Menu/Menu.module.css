@@ -1,0 +1,9 @@
+.navi{
+    grid-area: navi;
+    background-color: greenyellow
+   /*padding-left: 35px;*/
+
+}
+.item{
+color: white;
+}

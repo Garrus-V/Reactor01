@@ -1,0 +1,16 @@
+.app-new{
+  width: auto;
+  display: grid;
+  margin:   auto;
+  height: 100vh;
+
+grid-template-areas:
+"head head head"
+"navi cont lent"
+"foot foot foot";
+
+grid-template-rows: 60px 1fr;
+grid-template-columns: 10% fit-content(300px) 10%;
+grid-gap: 5px;
+
+}
