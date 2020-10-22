@@ -7,7 +7,7 @@ import prof from './Profil.module.css';
 
 
 
-function Profil (){
+const Profil = ()=>{
    
     return (
     <div  className = {prof.cont}>

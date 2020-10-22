@@ -5,7 +5,7 @@ import inout from './Login.module.css'
 
 
 
-function Login () {
+const Login = ()=> {
    
     return (
       <div class ={inout.login}>

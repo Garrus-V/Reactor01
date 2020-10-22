@@ -4,7 +4,7 @@ import lenta  from './Lenta.module.css';
 
 
 
-function Lenta () {
+const Lenta =()=> {
    
     return (
 

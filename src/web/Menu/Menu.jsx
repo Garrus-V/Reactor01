@@ -4,7 +4,7 @@ import c from './Menu.module.css';
 
 
 
-function Menu () {
+const Menu =()=> {
    
     return (
     <nav className = {c.navi}>

@@ -4,7 +4,7 @@ import ava from '../../../../images/03.jpg';
 
 
 
-function Post (props) {
+const Post =(props) => {
       
     return (
         

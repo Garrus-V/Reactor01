@@ -2,7 +2,7 @@ import React from 'react';
 import mod from'../../images/image/02.png';
 
 
-function Page (){
+const Page =()=>{
 return (
 <header className = {mod.page}>
     Новая страница

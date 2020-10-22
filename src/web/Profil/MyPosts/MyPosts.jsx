@@ -5,7 +5,7 @@ import Post from './Post/Post';
 
 
 
-function MyPosts (){
+const MyPosts =()=>{
    
     return (
     <div>   
