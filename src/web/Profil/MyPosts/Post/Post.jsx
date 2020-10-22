@@ -1,11 +1,11 @@
 import React from 'react';
 import post from './Post.module.css';
-import ava from '../../../../images/03.jpg'
+import ava from '../../../../images/03.jpg';
 
 
 
-const Post =(props) => {
-   
+function Post (props) {
+      
     return (
         
         <div className = {post.post}>

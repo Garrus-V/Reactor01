@@ -5,18 +5,19 @@ import Post from './Post/Post';
 
 
 
-const MyPosts =() => {
+function MyPosts (){
    
     return (
     <div>   
        <div className = {prof.post}>My post</div>
        <div className = {prof.post}>New post</div>
-       <div className = 'posts'>
-       <textarea name="" id="" cols="30" rows="5"></textarea>
-        <button>add post</button></div>
-        <Post message='Start' />
-        <Post message='midle'/>
-        <Post message='End'/>
+        <div className = 'posts'>
+        <textarea name="" id="" cols="30" rows="5"></textarea>
+        <button>add post</button>
+        </div>
+      <Post message='Start' />
+      <Post message='middle'/>
+      <Post message='End'/>
           
     </div>);
 }

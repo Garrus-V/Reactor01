@@ -1,13 +1,13 @@
 import React from 'react';
-import logo from '../../images/02.png'
+import logo from '../../images/02.png';
 import MyPosts from './MyPosts/MyPosts';
-import prof from './Profil.module.css'
-/*import ava from '../../images/03.jpg'*/
+import prof from './Profil.module.css';
+/*import ava from '../../images/03.jpg';*/
 
 
 
 
-const Profil =() => {
+function Profil (){
    
     return (
     <div  className = {prof.cont}>

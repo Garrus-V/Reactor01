@@ -1,15 +1,15 @@
 import React from 'react';
 import './App.css';
-import Header from './web/Header/Header'
-import Login from './web/Login/Login'
-import Profil from './web/Profil/Profil'
-import Menu from './web/Menu/Menu'
-import Footer from './web/Footer/Footer'
-import Lenta from './web/Lenta/Lenta'
+import Header from './web/Header/Header';
+import Login from './web/Login/Login';
+import Profil from './web/Profil/Profil';
+import Menu from './web/Menu/Menu';
+import Footer from './web/Footer/Footer';
+import Lenta from './web/Lenta/Lenta';
 
 
 
-const App =() => {
+function App ()  {
    
    return (
     <div className ='app-new'>

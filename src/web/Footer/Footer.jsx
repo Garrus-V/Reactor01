@@ -2,7 +2,7 @@ import React from 'react';
 import f from './Footer.module.css';
 
 
-const Footer =() => {
+function Footer ()  {
    
     return (
        <footer className = {f.foot}>
