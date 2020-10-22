@@ -12,12 +12,12 @@ const MyPosts =() => {
        <div className = {prof.post}>My post</div>
        <div className = {prof.post}>New post</div>
        <div className = 'posts'>
-        <textarea name="" id="" cols="30" rows="5"></textarea>
+       <textarea name="" id="" cols="30" rows="5"></textarea>
         <button>add post</button></div>
-        <Post />
-        <Post />
-        <Post />
-        <Post />
+        <Post message='Start' />
+        <Post message='midle'/>
+        <Post message='End'/>
+          
     </div>);
 }
     export default MyPosts;

@@ -1,5 +1,7 @@
 .lent{
     grid-area: lent;
-    background-color: darkgray;
+    background-color: gray;
     padding-left: 10px;
+    /*justify-content: center;*/
+    text-align: left;
 }
