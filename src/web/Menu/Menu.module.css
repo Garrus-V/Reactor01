@@ -1,9 +1,10 @@
 .navi{
     grid-area: navi;
-    background-color: greenyellow
-   /*padding-left: 35px;*/
-
+    background-color: lightgrey;
+    justify-content: center;
+   
 }
-.item{
+c.item{
 color: white;
+place-items: center;
 }

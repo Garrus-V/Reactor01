@@ -1,4 +1,35 @@
-.post{
-color:white;
+.posts{
+width: 500px;
+color: black;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-left: auto;
 
 }
+.posts textarea{
+
+    width: 80%;
+    border-radius: 20px;
+    resize: none;
+    justify-content: center ;
+    
+} 
+.button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: gray;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer; 
+        
+
+} 
+button:hover{
+   background: -webkit-gradient(linear, 0 0, 0 100%, from(#4af264), to(#4af264), color-stop(0.5, #39ba4d));
+ 
+    
+}
+

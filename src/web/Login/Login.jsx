@@ -9,8 +9,8 @@ const Login = ()=> {
    
     return (
       <div class ={inout.login}>
-      <button>Login</button>
-     
+     <button name ='enter'>Login</button>
+      
       </div>
     );
     }
