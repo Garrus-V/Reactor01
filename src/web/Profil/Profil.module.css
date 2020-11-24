@@ -1,5 +1,5 @@
 .cont{
-grid-area: cont;
+/*grid-area: cont;*/
 color: black;
 display: flex;
 flex-direction: column;
@@ -12,7 +12,7 @@ background-color: rgb(224, 228, 216);
 .cont img {
     
     border-radius: 500px;
-    justify-content: left;
+    /*justify-content: left;*/
 }
 
 

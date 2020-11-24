@@ -2,6 +2,7 @@
     grid-area: head;
     background-color:wheat ;
     justify-content: left;
+    
         
     }
  .head img{
@@ -9,4 +10,4 @@
  border-radius: 50px;
  margin-left: 80px;
  
- } 
+ }

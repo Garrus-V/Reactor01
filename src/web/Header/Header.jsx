@@ -8,8 +8,8 @@ const Header =()=> {
     return ( 
     <header className = {head.head}>
       <img src= {logo} alt="картинка"/>
-      Atom Cats
-       </header>);
+      <text>Atom Cats</text>       
+      </header>);
     }   
     
     export default Header;
