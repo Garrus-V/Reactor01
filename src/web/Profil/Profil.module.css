@@ -1,6 +1,19 @@
 .cont{
-    grid-area: cont;
-    background-color: green;
-    color: darkgray;
-    
+/*grid-area: cont;*/
+color: black;
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: rgb(224, 228, 216);
+
+
 }
+
+.cont img {
+    
+    border-radius: 500px;
+    /*justify-content: left;*/
+}
+
+
+  

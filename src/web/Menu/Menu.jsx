@@ -10,19 +10,19 @@ const Menu =()=> {
     <nav className = {c.navi}>
       <dl>  
          <dd className = {c.item}>
-           <a href ='/'>Profil</a>
+           <a href ='/'>Профиль</a>
           </dd>
          <dd className = {c.item}>
-           <a href ='/'>Messages</a>
+           <a href ='/'>Сообщения</a>
            </dd>
          <dd className = {c.item}>
-           <a href ='/'>News</a>
+           <a href ='/'>Новости</a>
           </dd>
           <dd className = {c.item}>
-           <a href ='/'>Music</a>
+           <a href ='/'>Музыка</a>
           </dd>
           <dd className = {c.item}>
-            <a href ='/'>Settings</a>
+            <a href ='/'>Настройки</a>
           </dd>
      </dl>
 </nav>);

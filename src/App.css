@@ -1,16 +1,21 @@
 .app-new{
   width: auto;
   display: grid;
-  margin:   auto;
- 
+  margin:  5px;
+  justify-content: center;
   
-
+  
+  
+  
 grid-template-areas:
 "head head Login"
 "navi cont lent"
 "foot foot foot";
 
 grid-template-rows: 60px 1fr;
-grid-template-columns: 10% fit-content(300px) 200px;
-grid-gap: 5px;
+grid-template-columns: 10% 885px 200px;
+
 }
+
+
+
