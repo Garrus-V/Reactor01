@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../images/01.jpg'
+import logo from '../../images/04.png'
 import head from './Header.module.css';
 
 
@@ -8,8 +8,8 @@ const Header =()=> {
     return ( 
     <header className = {head.head}>
       <img src= {logo} alt="картинка"/>
-      NuklerCat
-       </header>);
+      <text>Atom Cats</text>       
+      </header>);
     }   
     
     export default Header;

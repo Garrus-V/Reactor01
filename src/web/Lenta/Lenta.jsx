@@ -9,12 +9,12 @@ const Lenta =()=> {
     return (
 
          <aside className = {lenta.lent}>
-         <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-              Harum pariatur laborum deserunt non libero et minima ipsam laudantium 
-              voluptatem molestiae eos nemo illo earum iusto beatae nesciunt commodi, 
-              fugit amet eligendi, veritatis voluptates asperiores repellat. Blanditiis, 
-              ipsa ab odit animi, quae dicta praesentium recusandae culpa adipisci enim 
-              pariatur cum perferendis.
+         <p> Задача организации, в особенности же реализация намеченных плановых 
+              заданий в значительной степени обуславливает создание модели развития. 
+              Разнообразный и богатый опыт новая модель организационной деятельности 
+              влечет за собой процесс внедрения и модернизации системы обучения кадров,
+              соответствует насущным потребностям. С другой стороны укрепление и развитие 
+              структуры требуют от нас анализа соответствующий условий активизации.
          </p>
 
          </aside>);

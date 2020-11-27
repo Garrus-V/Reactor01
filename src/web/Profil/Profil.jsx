@@ -1,8 +1,9 @@
 import React from 'react';
-import logo from '../../images/02.png';
+/*import logo from '../../images/02.png';*/
 import MyPosts from './MyPosts/MyPosts';
-import prof from './Profil.module.css';
+/*import prof from './Profil.module.css';*/
 /*import ava from '../../images/03.jpg';*/
+import avatar from '../../images/04.jpg';
 
 
 
@@ -10,13 +11,15 @@ import prof from './Profil.module.css';
 const Profil = ()=>{
    
     return (
-    <div  className = {prof.cont}>
-        <img src= {logo} alt="картинка"/>
-    <div className = {prof.cont}> ava+pof
-    <div className = {prof.cont}></div>
-        
+    <div>
+       { /*<img src= {logo} alt="картинка"/> */}
+    <div> 
+        <img src= {avatar} alt="картинка"/>
+        ava+pof
+    <div></div>
+    
         <MyPosts />
-     </div>
+    </div>
     </div>);
  }
     export default Profil;
