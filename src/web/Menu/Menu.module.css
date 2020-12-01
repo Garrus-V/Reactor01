@@ -1,9 +1,18 @@
 .navi{
     grid-area: navi;
-    background-color: greenyellow
-   /*padding-left: 35px;*/
-
+    background-color: lightgrey;
+    justify-content: center;
+    
+   
 }
-.item{
-color: white;
+.item a{
+color: #ffffff;
+place-items: center;
+text-decoration: none;
+}
+
+.item a.activeLink{
+
+color: #000000;
+
 }

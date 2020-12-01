@@ -1,9 +1,13 @@
 .head {
     grid-area: head;
-    background-color: goldenrod;
- }
+    background-color:greenyellow ;
+    justify-content: left;
+    
+        
+    }
  .head img{
  width: 50px;
- }
-
+ border-radius: 50px;
+ margin-left: 80px;
  
+ }
